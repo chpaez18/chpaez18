@@ -16,20 +16,36 @@ Mi nombre es christian paez, soy de venezuela y me considero un entuciasta de la
 
 
 :heavy_check_mark: Manejo del patrón de diseño MVC a un nivel avanzado. 
+
+
 :heavy_check_mark: Javascript Jquery, AJAX JSON.
-:heavy_check_mark: NodeJS, Express
+
+
+:heavy_check_mark: NodeJS, Express.
+
 
 Además recientemente me encuentro estudiando las nuevas tecnologias web orientadas al frontend y el diseño de Apps
+
+
 :heavy_check_mark: React
+
+
 :heavy_check_mark: React Native
+
+
 :heavy_check_mark: NextJS
 
 
 Así mismo poseo conocimiento de los Sistemas Gestores de Bases de Datos
+
+
 :heavy_check_mark: Mysql Server.
+
+
 :heavy_check_mark: PostgreSQL.
 
-Estoy dispuesto y totalmente abierto al conocimiento de cualquier tecnologia que se requiera, asi mismo como el prestar colaboracion y apoyo a cualquier tipo de proyecto, tanto paginas web estaticas, como sistemas web completos. :smile:
+
+🔭 Estoy dispuesto y totalmente abierto al conocimiento de cualquier tecnologia que se requiera, asi mismo como el prestar colaboracion y apoyo a cualquier tipo de proyecto, tanto paginas web estaticas, como sistemas web completos. :smile:
 
 <!--
 **chpaez18/chpaez18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
