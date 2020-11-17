@@ -1,7 +1,10 @@
 ### Hola 👋
 
-Mi nombre es christian paez, soy venezolano
-:desktop_computer: mi perfil va orientado al desarrollo web más específicamente al desarrollo Backend.
+Mi nombre es christian paez, soy de venezuela y me considero un entuciasta de la tecnologia.
+
+:desktop_computer: Mi perfil profesional va orientado al desarrollo web más específicamente al desarrollo de aplicativos desde el lado del Backend.
+
+
 
 poseo aproximadamente 4 años de experiencia en el área usando php(POO) a un nivel avanzado desde 0 como con el uso de frameworks(yii2 y laravel), integraciones con APIS, Manejo de Web Services REST/FULL, conocimiento del patrón de diseño MVC a un nivel avanzado, experiencia con javascript Jquery, AJAX JSON y por el lado de sistemas gestores de bases de datos, PostgreSql y poseo experiencia básica usando MySql Server.
 <!--
