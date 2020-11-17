@@ -6,7 +6,7 @@ Mi nombre es christian paez, soy de venezuela y me considero una persona respons
 
 :book: Poseo aproximadamente 4 años de experiencia en el área de desarrollo, aplicando mis conocimientos en:
 
- :heavy_check_mark:PHP(POO) a un nivel avanzado desde 0 como con el uso de frameworks(yii2 y laravel).
+   :heavy_check_mark:PHP(POO) a un nivel avanzado desde 0 como con el uso de frameworks(yii2 y laravel).
 
 
  :heavy_check_mark: Integraciones con APIS.
