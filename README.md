@@ -33,7 +33,7 @@ Además recientemente me encuentro estudiando las nuevas tecnologias web orienta
  :heavy_check_mark: React Native
 
 
- :heavy_check_mark: NextJS
+ :heavy_check_mark: VueJS
 
 
 Así mismo poseo conocimiento de los Sistemas Gestores de Bases de Datos
@@ -61,4 +61,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
